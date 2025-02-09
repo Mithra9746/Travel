@@ -6,7 +6,7 @@
 
 
 ### Team Members
-- Member 1: [nitha nesri] - [SIMAT]
+- Member 1: [Nitha nesri] - [SIMAT]
 - Member 2: [Mithra pradep] - [SIMAT]
 - Member 3: [sreelakshmi sunilkumar] - [SIMAT]
 
