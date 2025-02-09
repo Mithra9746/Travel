@@ -1,14 +1,14 @@
-# [Project Name] 🎯
+# [Travel11] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Meithrasree]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [nitha nesri] - [SIMAT]
+- Member 2: [Mithra pradep] - [SIMAT]
+- Member 3: [sreelakshmi sunilkumar] - [SIMAT]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
